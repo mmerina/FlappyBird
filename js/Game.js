@@ -65,9 +65,7 @@
             self.clear();
             self.scene.render();
             self.ctx.font = "16px 微软雅黑";
-            self.ctx.fillText(self.f,10,20);
-            self.ctx.fillText(self.scene.sceneNumber,10,50);
-            self.ctx.fillText(`总分是${self.scene.score}`,10,80);
+            self.ctx.fillText(`总分：${self.scene.score}`,10,80);
         },20)
     }
 })();
