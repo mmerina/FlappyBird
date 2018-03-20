@@ -21,3 +21,4 @@
 # 项目启动
 直接打开index就能玩
 
+https://mmerina.github.io/FlappyBird/
